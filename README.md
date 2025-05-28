@@ -1,0 +1,1 @@
+# Dual-channel-hypergraph-convolutional-network-for-predicting-herb-disease-associations-
